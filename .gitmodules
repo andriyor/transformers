@@ -6,3 +6,15 @@
 	path = packages/default2namedExport
 	url = git@github.com:andriyor/default2namedExport.git
 	branch = main
+[submodule "packages/cjs2mjsExport"]
+	path = packages/cjs2mjsExport
+	url = git@github.com:andriyor/cjs2mjsExport.git
+	branch = main
+[submodule "packages/jest2vitest"]
+	path = packages/jest2vitest
+	url = git@github.com:andriyor/jest2vitest.git
+	branch = main
+[submodule "packages/css-modules-migration"]
+	path = packages/css-modules-migration
+	url = git@github.com:andriyor/css-modules-migration.git
+	branch = master
