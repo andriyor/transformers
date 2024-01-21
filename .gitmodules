@@ -1,6 +1,8 @@
 [submodule "packages/enum2union"]
 	path = packages/enum2union
 	url = git@github.com:andriyor/enum2union.git
+	branch = main
 [submodule "packages/default2namedExport"]
 	path = packages/default2namedExport
 	url = git@github.com:andriyor/default2namedExport.git
+	branch = main
